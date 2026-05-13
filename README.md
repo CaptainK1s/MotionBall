@@ -10,10 +10,9 @@ A bunch of colorful bouncing balls moving around the screen at terminal velocity
 
 - Multiple animated balls
 - Random colors
-- Collision with screen boundaries
+- Collision with screen boundaries!
 - Smooth 60 FPS motion
 - Built fully through terminal workflow
-- First-time Pygame experimentation
 
 ---
 
@@ -78,13 +77,6 @@ This project was mainly built to:
 - Mini game mode
 - Boobies
 - Export as desktop app
-- Multiplayer empire with venture funding
-
----
-
-## Screenshot
-
-Add screenshot later.
 
 ---
 
